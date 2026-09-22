@@ -11,8 +11,6 @@ The application is built entirely with **Streamlit**, allowing users to enter pr
 🔗 **Streamlit App:**
 https://nyc-air-bnb-ml-based.streamlit.app/
 
-> Replace the URL above with your actual deployed Streamlit URL.
-
 ---
 
 ## 📌 Project Overview
