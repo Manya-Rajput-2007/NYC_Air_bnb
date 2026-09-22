@@ -1,6 +1,14 @@
 .venv/
 venv/
+
 __pycache__/
 *.pyc
+
 .env
+
 .ipynb_checkpoints/
+
+.vscode/
+.idea/
+
+*.log
